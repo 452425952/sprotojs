@@ -1,0 +1,22 @@
+{
+  "name": "sprotojs",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/452425952/sprotojs.git"
+  },
+  "keywords": [
+    "sproto"
+  ],
+  "author": "赵小胖",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/452425952/sprotojs/issues"
+  },
+  "homepage": "https://github.com/452425952/sprotojs#readme"
+}
