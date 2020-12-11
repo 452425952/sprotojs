@@ -629,7 +629,8 @@ var sproto = (function () {
                     intlen = 8;
                 }
 
-                v = value;
+                // v = value;
+                v = args.value;
 
                 buffer[buffer_idx] = v & 0xff;
                 buffer[buffer_idx + 1] = (v >> 8) & 0xff;
